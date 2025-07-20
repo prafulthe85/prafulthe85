@@ -40,7 +40,7 @@ I'm a **Software Engineer** with **1.5+ years of experience** at a **product-bas
 
 ## 🎯 What I'm Learning
 - 🔭 Deep-diving into **LLMs, AI Integration in my Projects**, and **Micro Services Handling**
-- 🌱 Currently Exploring **Large Data Handling ** and **CI/CD pipelines**
+- 🌱 Currently Exploring **Large Data Handling** and **CI/CD pipelines**
 - 🧩 Practicing **DSA** on LeetCode & GeeksforGeeks
 - 📊 Experience with **large data handling** using pagination, indexing, and aggregation pipelines
 - 🧠 Follow **modular and scalable design principles** in product architecture
