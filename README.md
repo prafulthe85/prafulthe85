@@ -15,7 +15,8 @@ I'm a **Software Engineer** with **1.9+ years of experience** at a  — **[Grazi
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prafulthe85) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prafulgupta85/) &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/prafulthe85/JOB-Portal) &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptapraful130@gmail.com)
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptapraful130@gmail.com?subject=Hello%20Praful&body=Hi%20Praful,) &nbsp;&nbsp;
+
 
 
 ## 🧠 My Work
