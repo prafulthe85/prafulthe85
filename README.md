@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** with **1.5+ years of experience** at a **product-based company** — [SearchUnify (Grazitti Interactive)](https://www.searchunify.com/), where I’ve worked on multiple AI-powered enterprise products across full-stack and NLP domains.
+I'm a **Software Engineer** with **1.9+ years of experience** at a **product-based company** — [SearchUnify (Grazitti Interactive)](https://www.searchunify.com/), where I’ve worked on multiple AI-powered enterprise products across full-stack and NLP domains.
 
 ---
 
