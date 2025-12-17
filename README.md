@@ -5,45 +5,53 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** with **1.9+ years of experience** at a **product-based company** — [SearchUnify (Grazitti Interactive)](https://www.searchunify.com/), where I’ve worked on multiple AI-powered enterprise products across full-stack and NLP domains.
+I'm a **Software Engineer** with **1.9+ years of experience** at a  — **[Grazitti Interactive (SearchUnify)](https://www.searchunify.com/)**, currently building **Knowbler** (AI knowledge agent for support users) and previously worked on **SUVA Chatbot**, an AI-powered enterprise chatbot..
 
 ---
 
+
+## 🔗 Happy to Connect😊
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prafulthe85) &nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prafulgupta85/) &nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/prafulthe85/JOB-Portal) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptapraful130@gmail.com)
+
+
 ## 🧠 My Work
 
-### 🔹 **SUVA Chatbot – AI Chatbot Platform**
-> A multi-platform, LLM-powered support chatbot
+### 🔹 **Knowbler – AI Knowledge App for Support Agents**
+> An AI-powered platform that generates knowledge base articles directly from support cases.
 
-- Supported across platforms like **Salesforce, Zendesk**, and can be embedded in any webpage.
+- Integrated with enterprise platforms such as **Salesforce, ServiceNow, Zendesk, Khoros, and FreshService.**
+- ✨ Key Features:  
+  - Extracts and analyzes case subjects, descriptions, and comments.
+  - Automatically generates and updates knowledge base articles.
+  - Real-time synchronization of cases and articles.
+  - Provides a comprehensive admin dashboard with detailed analytics, visual graphs, and tracking.
+- 🛠️ Tech Used: `React`, `Node.js`, `ExpressJs`, `MongoDB`, `Kafka`, `Redis Caching`, `MicroServices-Architechure`, `Salesforce Apex`, `Salesforce LWC`, `Docker`, `Git`, `OAuths`, `Nginx`, `GraphQL`
+
+---
+
+### 🔹 **SUVA Chatbot – AI Chatbot Platform**
+> A multi-channel, LLM-powered chatbot designed for intelligent customer support.
+
+- Deployed across platforms like **Salesforce and Zendesk**, with embeddable support for any web application.
 - ✨ Features:  
-  - LLM-based responses (LangChain + OpenAI)
-  - Case creation
-  - Data-crawling based knowledge fetch
-  - Voice-based interaction (Speech-to-Text & Text-to-Speech)
-  - User analytics dashboard
+  - LLM-driven conversational responses using LangChain and OpenAI.
+  - Automated case creation and ticket handling.
+  - Knowledge retrieval through data crawling and indexing.
+  - Voice-enabled interactions using Speech-to-Text and Text-to-Speech.
+  - User behavior analytics and performance dashboards.
 - 🛠️ Tech Used: `Python`, `Flask`, `Langchain`, `OpenAI`, `Azure STT/TTS`, `Rasa`, `Redis`, `Kafka`, `Docker`, `Git`
 
 ---
 
-### 🔹 **Knowbler – AI Assistant for Support Agents**
-> An AI-powered solution to generate KB articles from support cases
-
-- Supports integration with platforms like **Salesforce, ServiceNow, Zendesk**
-- ✨ Features:  
-  - Reads case subject, description, and comments
-  - Auto-generates knowledge base articles
-  - Real Time Updation of Cases and Articles
-  - Powerful Admin Panel with detailed tracking of analytics
-- 🛠️ Tech Used: `React`, `Node.js`, `Express`, `MongoDB`, `Kafka`, `Redis`, `Salesforce Apex`, `Salesforce LWC`, `Docker`, `Git`
-
----
-
 ## 🎯 What I'm Learning
-- 🔭 Deep-diving into **LLMs, AI Integration in my Projects**, and **Micro Services Handling**
-- 🌱 Currently Exploring **Large Data Handling** and **CI/CD pipelines**
-- 🧩 Practicing **DSA** on LeetCode & GeeksforGeeks
-- 📊 Experience with **large data handling** using pagination, indexing, and aggregation pipelines
-- 🧠 Follow **modular and scalable design principles** in product architecture
+- 🔭 Expanding expertise in **LLMs**, **AI integrations**, and **microservices-based systems**.
+- 🌱 Learning **scalable data handling** techniques and **CI/CD automation**.
+- 🧩 Actively strengthening **DSA problem-solving skills** at Leetcode and GeeksForGeeks.
+- 📊 Applying modular and scalable design principles in real-world products.
 
 ---
 
@@ -112,15 +120,6 @@ I'm a **Software Engineer** with **1.9+ years of experience** at a **product-bas
 
 [![Praful's GitHub stats](https://github-readme-stats.vercel.app/api?username=prafulthe85&show_icons=true&theme=radical)](https://github.com/prafulthe85)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prafulthe85&layout=compact&theme=radical)](https://github.com/prafulthe85)
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: **guptapraful130@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/praful-gupta](https://www.linkedin.com/in/praful-gupta)
-- 🌐 Portfolio: [On the way, till then check this)[prafulthe85/JOB-Portal](https://github.com/prafulthe85/JOB-Portal)
-- 🧑‍💻 GitHub: [github.com/prafulthe85](https://github.com/prafulthe85)
 
 ---
 
